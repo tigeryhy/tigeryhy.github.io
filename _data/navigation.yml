@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Calls"
+    url: /#calls
+  - title: "Shared Task"
+    url: /#shared-task
+  - title: "Invited Speakers"
+    url: /#invited-speakers
+  - title: "Organization"
+    url: /#organization
+  - title: "Previous Workshops"
+    url: /previous-workshops
+  - title: "Contact"
+    url: /#contact
+    
